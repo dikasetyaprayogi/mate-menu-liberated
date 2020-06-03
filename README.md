@@ -6,7 +6,7 @@ mate-menu without nonfree suggestions and support for services that are unsafe a
 
 quick changelogs from the original
 
-/usr/share/mate-menu/icons/search_engines/ : replaced google.ico with duckduckgo.ico
-/usr/lib/python2.7/site-packages/mate_menu/plugins/applications.py : replaced Google, google, google.com, and google.ico, lines in the code with DuckDuckGo, duckduckgo, duckduckgo.com, and duckduckgo.ico
-/usr/share/mate-menu/plugins/applications.py : replaced Google, google, google.com, and google.ico, lines in the code with DuckDuckGo, duckduckgo, duckduckgo.com, and duckduckgo.ico
-/usr/share/mate-menu/applications.list : replaced firefox.desktop, thunderbird.desktop, and pidgin.desktop lines in the code with iceweasel-uxp.desktop, icedove-uxp.desktop, and iceape.desktop
+- [x] /usr/share/mate-menu/icons/search_engines/ : replaced google.ico with duckduckgo.ico
+- [x] /usr/lib/python2.7/site-packages/mate_menu/plugins/applications.py : replaced Google, google, google.com, and google.ico, lines in the code with DuckDuckGo, duckduckgo, duckduckgo.com, and duckduckgo.ico
+- [x] /usr/share/mate-menu/plugins/applications.py : replaced Google, google, google.com, and google.ico, lines in the code with DuckDuckGo, duckduckgo, duckduckgo.com, and duckduckgo.ico
+- [x] /usr/share/mate-menu/applications.list : replaced firefox.desktop, thunderbird.desktop, and pidgin.desktop lines in the code with iceweasel-uxp.desktop, icedove-uxp.desktop, and iceape.desktop
